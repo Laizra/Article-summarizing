@@ -1,2 +1,2 @@
 # repeat_understand
-NPLOYTVTAW combined with venv, etc... reviewing and finishing up
+NPLOYTVTAW combined with venv, Lemmatization from an article, regular expression
